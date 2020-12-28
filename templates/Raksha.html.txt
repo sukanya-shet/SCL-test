@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head><title>git demo</title>
+</head>
+
+<body>
+<div><h1>This is a repo to test an practise sending pull request for the scl maxo <h1>
+
+<p><h2> Create a new HTML file, add your details as the following, push it to this repository and send a pull request </h2>
+
+<table border=1>
+<tr>
+<th>Name</th>
+<th>Year</th>
+</tr>
+<tr><td>B Shriraksha Baliga </td><td>2018</td></tr>
+</table>
+
+</body>
+</html>
